@@ -1,0 +1,35 @@
+[2025-11-09 13:57:19] run_watcher() running in thread: {threading.current_thread().name}
+[2025-11-09 13:57:19] Watcher running in background thread.
+[2025-11-09 13:57:19] Started watching: E:\Watcher1
+[2025-11-09 13:57:19] Watcher started in thread: {watcher_thread.name}
+[2025-11-09 13:57:19] Started watching: E:\Watcher2
+[2025-11-09 13:58:02] Directory Created: NEW in E:\Watcher1
+[2025-11-09 13:58:36] Directory Deleted: NEW in E:\Watcher1
+[2025-11-09 13:58:43] Watcher stopped.
+[2025-11-09 13:58:43] Tray icon closed via on_quit() call.
+[2025-11-09 13:58:43] Icon started in main thread.
+[2025-11-09 13:58:43] Watcher stopped.
+[2025-11-09 18:48:13] run_watcher() running in thread: {threading.current_thread().name}
+[2025-11-09 18:48:13] Started watching: E:\Watcher1
+[2025-11-09 18:48:13] Watcher running in background thread.
+[2025-11-09 18:48:13] Started watching: E:\Watcher2
+[2025-11-09 18:48:13] Watcher started in thread: {watcher_thread.name}
+[2025-11-09 18:48:20] Watcher stopped.
+[2025-11-09 18:48:20] Icon started in main thread.
+[2025-11-09 18:48:20] Watcher stopped.
+[2025-11-09 18:48:31] run_watcher() running in thread: {threading.current_thread().name}
+[2025-11-09 18:48:31] Watcher running in background thread.
+[2025-11-09 18:48:31] Started watching: E:\Watcher1
+[2025-11-09 18:48:31] Watcher started in thread: {watcher_thread.name}
+[2025-11-09 18:48:31] Started watching: E:\Watcher2
+[2025-11-09 18:48:35] Watcher stopped.
+[2025-11-09 18:48:35] Tray icon closed via on_quit() call.
+[2025-11-09 18:48:35] Icon started in main thread.
+[2025-11-09 18:48:35] Watcher stopped.
+[2025-11-09 18:48:37] run_watcher() running in thread: {threading.current_thread().name}
+[2025-11-09 18:48:37] Watcher running in background thread.
+[2025-11-09 18:48:37] Started watching: E:\Watcher1
+[2025-11-09 18:48:37] Watcher started in thread: {watcher_thread.name}
+[2025-11-09 18:48:37] Started watching: E:\Watcher2
+[2025-11-09 18:48:54] Directory Created: NEW in E:\Watcher1
+[2025-11-09 18:49:11] Directory Deleted: NEW in E:\Watcher1
