@@ -1,0 +1,8 @@
+{
+    "watch_paths": [
+        "E:\\Watcher1",
+        "E:\\Watcher2"
+    ],
+    "log_file": "E:\\GEHU\\5th Sem\\Final_OS_PBL\\directory_watcher_log.txt",
+	"icon_path": "D:\\Vaidehi\\icon.png"
+}
